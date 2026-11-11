@@ -4,6 +4,7 @@ Portfolio personal de diseño digital, UX/UI y desarrollo web. Presenta habilida
 
 ## Enlaces
 
+- **Portfolio Público:** https://fanciful-torte-a665fb.netlify.app/
 - **Diseño en Figma:** https://www.figma.com/design/g2uQPuK6LaBZtNpBC3o17v
 - **LinkedIn:** https://www.linkedin.com/in/ariadna-rizzo-6b187544a/
 - **GitHub:** https://github.com/rizzoschau-web
